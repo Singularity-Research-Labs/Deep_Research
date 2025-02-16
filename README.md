@@ -1,6 +1,6 @@
 # Deep Research Engine
 
-A sophisticated knowledge synthesis engine that leverages AI to conduct comprehensive investigations on any topic. The system performs recursive searches, analyzes content, and generates detailed research reports with citations.
+An open source version of OpenAI's Deep Research. The goal behind Singularity Research is to democratize AI access as a human right and to accelerate technologies that save humanity.
 
 ## Features
 
